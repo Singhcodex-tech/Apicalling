@@ -1,21 +1,32 @@
 ## Hi, I'm Akshat 👋
 
-I'm a Python developer interested in:
-- APIs
+I'm a student developer with experience in:
+- Python (APIs, JSON, automation)
+- C (basics, logic building)
+- HTML & CSS (basic frontend)
+
+I'm especially interested in:
 - Blockchain & Bitcoin
-- Open-source development
+- Backend development
+- Open-source software
 
 ### Projects
-- **Bitcoin Balance Checker** — Fetches real-time Bitcoin address balances and transaction details using the BlockCypher API  
-- **Weather Forecast App** — Retrieves live weather data and announces forecasts using Text-to-Speech (API + gTTS)  
-- **News Headlines Reader** — Reads current technology news headlines aloud using public APIs and Text-to-Speech  
-- **Quiz Application** — A multiple-choice quiz program that consumes a trivia API and evaluates user responses
+- **Bitcoin Balance Checker** — Fetches real-time Bitcoin address balances using the BlockCypher API  
+- **Weather Forecast App** — API-based weather updates with Text-to-Speech output  
+- **News Headlines Reader** — Reads current headlines aloud using public APIs  
+- **Quiz Application** — Interactive quiz using a trivia API
+
+### Technologies
+- Python, C
+- HTML, CSS
+- REST APIs
+- Git & GitHub
 
 ### Currently Learning
-- Bitcoin transactions and blockchain data structures  
-- REST APIs and JSON parsing  
-- Writing clean, readable Python code
+- Bitcoin internals and transactions  
+- Writing clean, maintainable Python  
+- Open-source contribution workflow
 
 ### Goals
-- Contribute to open-source projects  
+- Contribute to open-source projects
 - Apply for Summer of Bitcoin
